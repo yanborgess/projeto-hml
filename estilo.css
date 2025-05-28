@@ -125,14 +125,6 @@ body {
   padding: 40px;
 }
 
-.bloco {
-  flex: 1;
-  background-color: #fff;
-  padding: 1px;
-  box-shadow: 0 0 10px #ccc;
-  border-radius: 8px;
-}
-
 .cabecalho {
   display: flex;
   align-items: center;
@@ -170,7 +162,7 @@ body {
 }
 
 .rodape {
-  background-color: #eeeeee;  
+  background-color: #cccbcb;  
   text-align: left;         
   padding: 20px;              
   font-size: 14px;
